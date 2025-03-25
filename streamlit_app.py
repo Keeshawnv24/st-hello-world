@@ -1,2 +1,5 @@
 import streamlit as st
-st.write('Hello World')
+
+st.title('🎈')
+
+st.write( 'Hello world!')
